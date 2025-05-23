@@ -1,5 +1,5 @@
 # LAU-Net
-This repository contains the implementation of LAU-Net, a novel approach for speech enhancement in extremely noisy environments. This study was submitted to Interspeech 2025.
+This repository contains the implementation of LAU-Net, a novel approach for speech enhancement in extremely noisy environments. This study was accepted to Interspeech 2025.
 
 # Requirements
 The specific versions of the required modules are listed in the **requirements.txt** file.
